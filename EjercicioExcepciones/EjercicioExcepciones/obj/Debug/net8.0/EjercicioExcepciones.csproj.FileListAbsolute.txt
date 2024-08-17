@@ -1,0 +1,15 @@
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.exe
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.deps.json
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.runtimeconfig.json
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\bin\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfoInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.AssemblyInfo.cs
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.sourcelink.json
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\refint\EjercicioExcepciones.dll
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.pdb
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\EjercicioExcepciones.genruntimeconfig.cache
+C:\Users\curacao\Documents\Estudio\Project\Program2_S3\EjercicioExcepciones\EjercicioExcepciones\obj\Debug\net8.0\ref\EjercicioExcepciones.dll

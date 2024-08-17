@@ -21,7 +21,7 @@ do
 } while (opcion.ToUpper() != "N");
 
 Console.WriteLine();
-Console.WriteLine("********** LISTA DE EDIFICIOS **********");
+Console.WriteLine("********** LISTA DE MASCOTAS **********");
 foreach (Mascota mascota in mascotaLista)
 {
     mascota.Vendida();

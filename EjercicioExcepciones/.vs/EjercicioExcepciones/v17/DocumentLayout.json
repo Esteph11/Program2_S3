@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{72E58560-ACE1-422D-B704-9126197DC3DF}|EjercicioExcepciones\\EjercicioExcepciones.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2_s3\\ejercicioexcepciones\\ejercicioexcepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72E58560-ACE1-422D-B704-9126197DC3DF}|EjercicioExcepciones\\EjercicioExcepciones.csproj|solutionrelative:ejercicioexcepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E58560-ACE1-422D-B704-9126197DC3DF}|EjercicioExcepciones\\EjercicioExcepciones.csproj|c:\\users\\curacao\\documents\\estudio\\project\\program2_s3\\ejercicioexcepciones\\ejercicioexcepciones\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E58560-ACE1-422D-B704-9126197DC3DF}|EjercicioExcepciones\\EjercicioExcepciones.csproj|solutionrelative:ejercicioexcepciones\\operaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operaciones.cs",
+              "DocumentMoniker": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2_S3\\EjercicioExcepciones\\EjercicioExcepciones\\Operaciones.cs",
+              "RelativeDocumentMoniker": "EjercicioExcepciones\\Operaciones.cs",
+              "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2_S3\\EjercicioExcepciones\\EjercicioExcepciones\\Operaciones.cs",
+              "RelativeToolTip": "EjercicioExcepciones\\Operaciones.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T09:53:16.616Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "EjercicioExcepciones\\Program.cs",
               "ToolTip": "C:\\Users\\curacao\\Documents\\Estudio\\Project\\Program2_S3\\EjercicioExcepciones\\EjercicioExcepciones\\Program.cs",
               "RelativeToolTip": "EjercicioExcepciones\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T05:03:58.742Z",
               "EditorCaption": ""

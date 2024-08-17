@@ -12,6 +12,8 @@ namespace EjercicioPolimorfismo
             public void Vendida()
             {
                 Console.WriteLine($"{Tipo} ha sido comprado por el precio de L{Precio}");
+                Console.WriteLine($"Su nuevo dueño: {Dueño}");
+                Console.WriteLine();
             }
     }
 }
